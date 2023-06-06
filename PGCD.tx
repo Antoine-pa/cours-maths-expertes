@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\title{PGCD}
+
+\begin{document}
+
+\maketitle
+
+\section{Définition :}
+\paragraph{
+Le PGCD de a et b est le plus grand commun diviseur.
+}
+\paragraph{
+On peut le noter: \textbf{\textit{PGCD(a ,b)}}
+}
+
+\section{Propriétes :}
+\paragraph{\quad- gegf}
+\paragraph{\quad- gegf}
+\paragraph{\quad- gegf}
+
+\end{document}
